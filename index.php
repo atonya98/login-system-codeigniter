@@ -2,7 +2,8 @@
 
 echo 'Project coming soon';
 
-echo 'Login System';
+echo 'Login and registration System';
+
 
 
 ?>

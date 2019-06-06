@@ -1,6 +1,6 @@
 <?php
 
-echo 'Priject coming soon';
+echo 'Project coming soon';
 
 
 ?>
